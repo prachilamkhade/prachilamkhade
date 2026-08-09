@@ -6,7 +6,7 @@ Passionate about building reliable backend applications, solving problems with D
 
 I work with **Java, Spring Boot, REST APIs, and SQL**, and enjoy turning ideas into practical solutions while constantly learning and improving.
 
-🚀 **Building. Learning. Solving. Growing.**
+**Building. Learning. Solving. Growing.**
 
 ---
 
@@ -36,7 +36,7 @@ I work with **Java, Spring Boot, REST APIs, and SQL**, and enjoy turning ideas i
 
 `MySQL` · `SQL` · `Database Handling`
 
-### 🧪 API Testing
+###  API Testing
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/>
