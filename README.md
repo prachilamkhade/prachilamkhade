@@ -208,30 +208,36 @@ A **blood bank management system** supporting donor registration, blood donation
 
 ## CODING JOURNEY
 
+<table>
+<tr>
+<td align="center" width="33%">
+
+<strong>50+</strong><br>
+LeetCode Problems Solved
+
+</td>
+
+<td align="center" width="33%">
+
+<strong>Java • DSA</strong><br>
+Problem Solving
+
+</td>
+
+<td align="center" width="33%">
+
+<strong>50 Days</strong><br>
+Badge — 2026
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-
-<strong>50+ LeetCode Problems Solved</strong>
-
-<br>
-
-Java • DSA • Problem Solving
-
-<br><br>
-
-<strong>50 Days Badge — 2026</strong>
-
-<br><br>
-
-<a href="https://leetcode.com/u/prachilamkhade/">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="40"/>
-</a>
-
-<br>
-
-<a href="https://leetcode.com/u/prachilamkhade/">
-  Visit My LeetCode Profile →
-</a>
-
+  <a href="https://leetcode.com/u/prachilamkhade/">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="35"/>
+    &nbsp; Visit My LeetCode Profile →
+  </a>
 </p>
 
 ---
@@ -239,19 +245,15 @@ Java • DSA • Problem Solving
 ## CURRENTLY LEARNING
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" width="32"/>
-  <strong> Spring Boot</strong>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
-
+  <img src="https://skillicons.dev/icons?i=spring" width="30"/>
+  <strong>Spring Boot</strong>
+  &nbsp;•&nbsp;
   <strong>Backend Development</strong>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
-
+  &nbsp;•&nbsp;
   <strong>JPA & Hibernate</strong>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
-
+  &nbsp;•&nbsp;
   <strong>Advanced DSA</strong>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
-
+  &nbsp;•&nbsp;
   <strong>REST APIs</strong>
 </p>
 
@@ -262,29 +264,21 @@ Java • DSA • Problem Solving
 ## LET'S CONNECT
 
 <p align="center">
-
-<a href="mailto:lamkhadeprachi12@gmail.com">
-  <strong>Email</strong>
-</a>
-
-&nbsp; • &nbsp;
-
-<a href="https://www.linkedin.com/in/prachi-lamkhade-62a460325/">
-  <strong>LinkedIn</strong>
-</a>
-
-&nbsp; • &nbsp;
-
-<a href="https://github.com/prachilamkhade">
-  <strong>GitHub</strong>
-</a>
-
-&nbsp; • &nbsp;
-
-<a href="https://leetcode.com/u/prachilamkhade/">
-  <strong>LeetCode</strong>
-</a>
-
+  <a href="mailto:lamkhadeprachi12@gmail.com">
+    <strong>✉ Email</strong>
+  </a>
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prachi-lamkhade-62a460325/">
+    <strong>LinkedIn</strong>
+  </a>
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  <a href="https://github.com/prachilamkhade">
+    <strong>GitHub</strong>
+  </a>
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/prachilamkhade/">
+    <strong>LeetCode</strong>
+  </a>
 </p>
 
 ---
